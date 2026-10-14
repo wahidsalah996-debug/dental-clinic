@@ -1,30 +1,27 @@
 # Dental Clinic Website
 
-A responsive website concept for a dental clinic, designed to present services clearly and help visitors contact the clinic.
+A responsive, Arabic-friendly dental clinic website concept created as a front-end portfolio project.
 
-## Features
+## Preview
+- **Live demo:** https://wahidsalah996-debug.github.io/portfolio/dental-clinic.html
+- **Main portfolio:** https://wahidsalah996-debug.github.io/portfolio/
+
+## Highlights
 - Responsive layout for mobile, tablet, and desktop
-- Clinic services and patient information sections
-- Clear contact and appointment call-to-action
-- WhatsApp contact integration in the portfolio version
+- Clear service sections and patient-oriented content
+- Contact and appointment calls to action
+- WhatsApp contact link in the portfolio demo
+- HTML, CSS, and JavaScript in a lightweight static page
 
-## Live Demo
-- Portfolio project page: https://wahidsalah996-debug.github.io/portfolio/dental-clinic.html
+## Run locally
+1. Clone this repository.
+2. Open `index.html` in a modern browser.
 
-## Technologies
-- HTML
-- CSS
-- JavaScript
+No build step is required for the static demo.
 
-## Local Preview
-1. Clone or download this repository.
-2. Open `index.html` in a browser.
-
-## Project Status
-Portfolio/demo project. Before using it for a real clinic, replace sample content with verified clinic details and test all contact links.
+## Project status and responsible use
+This is a demonstration project, not a deployed clinical service. Replace all sample content with clinic-approved information and test every contact path before launch. Do not collect patient health data through this static demo without an appropriately designed, reviewed, and secured backend.
 
 ## Contact
-For project inquiries, use WhatsApp: **+213 666 780 427**.
+For website project inquiries: [WhatsApp](https://wa.me/213666780427) · [Email](mailto:wahidsalah996@gmail.com)
 
----
-Built as a web design portfolio project.
