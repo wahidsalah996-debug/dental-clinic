@@ -1,27 +1,32 @@
-# Dental Clinic Website
+# BrightSmile Dental — Website Template
 
-A responsive, Arabic-friendly dental clinic website concept created as a front-end portfolio project.
+A responsive, multilingual website template for dental practices, designed to present services clearly, answer common patient questions, and guide visitors toward the clinic's verified contact or appointment workflow.
 
-## Preview
-- **Live demo:** https://wahidsalah996-debug.github.io/portfolio/dental-clinic.html
+## Featured version
+
+- **Portfolio presentation:** https://wahidsalah996-debug.github.io/portfolio/dental-clinic.html
 - **Main portfolio:** https://wahidsalah996-debug.github.io/portfolio/
+- **Source:** https://github.com/wahidsalah996-debug/dental-clinic
 
 ## Highlights
-- Responsive layout for mobile, tablet, and desktop
-- Clear service sections and patient-oriented content
-- Contact and appointment calls to action
-- WhatsApp contact link in the portfolio demo
-- HTML, CSS, and JavaScript in a lightweight static page
+
+- Responsive layouts for phones, tablets, and desktop screens
+- English, French, and Arabic/RTL language support
+- Service information and patient-oriented FAQ sections
+- Clear contact and appointment calls to action
+- Lightweight HTML, CSS, and JavaScript with no build step for the static page
 
 ## Run locally
+
 1. Clone this repository.
 2. Open `index.html` in a modern browser.
 
-No build step is required for the static demo.
+## Client customization checklist
 
-## Project status and responsible use
-This is a demonstration project, not a deployed clinical service. Replace all sample content with clinic-approved information and test every contact path before launch. Do not collect patient health data through this static demo without an appropriately designed, reviewed, and secured backend.
+Replace the sample brand with the clinic's approved identity, verify all service and clinical copy with qualified staff, and configure the clinic's actual contact and booking process. Before launch, check accessibility, mobile navigation, links, privacy notices, and any local advertising or health-information requirements.
+
+The page is a front-end website template; it does not include a secure patient-record system or a server-side appointment database. Do not collect patient health information through an unreviewed static form.
 
 ## Contact
-For website project inquiries: [WhatsApp](https://wa.me/213666780427) · [Email](mailto:wahidsalah996@gmail.com)
 
+For website customization inquiries: [wahidsalah996@gmail.com](mailto:wahidsalah996@gmail.com)
