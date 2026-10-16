@@ -23,7 +23,7 @@ A responsive, multilingual website template for dental practices, designed to pr
 
 ## Client customization checklist
 
-Replace the sample brand with the clinic's approved identity, verify all service and clinical copy with qualified staff, and configure the clinic's actual contact and booking process. Before launch, check accessibility, mobile navigation, links, privacy notices, and any local advertising or health-information requirements.
+Configure the clinic's approved identity, confirm all service details, have clinical copy reviewed by qualified staff, and connect the clinic's real contact and booking process. Before launch, check accessibility, mobile navigation, links, privacy notices, and any local advertising or health-information requirements.
 
 The page is a front-end website template; it does not include a secure patient-record system or a server-side appointment database. Do not collect patient health information through an unreviewed static form.
 
